@@ -1,0 +1,3 @@
+#!/bin/zsh
+
+javadoc -linkoffline http://docs.oracle.com/javase/8/docs/api/ http://docs.oracle.com/javase/8/docs/api/ -private -d docs/ ./src/info/kgeorgiy/java/advanced/implementor/*.java ./src/ru/ifmo/ctddev/kacman/implementor/*.java

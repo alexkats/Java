@@ -1,0 +1,3 @@
+#!/bin/zsh
+
+jar cfm Impler.jar manifest ./info/kgeorgiy/java/advanced/implementor/*.class ./ru/ifmo/ctddev/kacman/implementor/*.class

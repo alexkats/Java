@@ -1,0 +1,7 @@
+#!/bin/zsh
+
+rm -r testing 2>err
+rm -f err
+rm -f Impler.jar
+rm -r java 2>err
+rm -f err

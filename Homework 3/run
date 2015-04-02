@@ -1,0 +1,23 @@
+#!/bin/zsh
+
+./run_java $1 >aaa 2>err
+javac A.java
+java A
+rm err
+rm aaa
+rm A.class
+clear
+echo "MacBook-Pro-Aleksej% "
+
+for ((i = 0; i < 3; i++))
+do
+    echo
+done
+
+cat result
+rm result
+
+for ((i = 0; i < 3; i++))
+do
+    echo
+done

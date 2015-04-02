@@ -1,0 +1,4 @@
+#!/bin/zsh
+
+java -jar Impler.jar java.util.NavigableSet
+java -jar Impler.jar -jar java.util.NavigableSet testing
