@@ -1,0 +1,3 @@
+#!/bin/zsh
+
+java -cp "libs/*:out/production/Homework 6" info.kgeorgiy.java.advanced.concurrent.Tester list ru.ifmo.ctddev.kacman.concurrent.IterativeParallelism $1

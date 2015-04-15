@@ -1,0 +1,3 @@
+#!/bin/zsh
+
+java -cp "libs/*:out/production/Homework 7" info.kgeorgiy.java.advanced.mapper.Tester list ru.ifmo.ctddev.kacman.mapper.ParallelMapperImpl,ru.ifmo.ctddev.kacman.mapper.IterativeParallelism $1

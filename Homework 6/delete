@@ -1,0 +1,4 @@
+#!/bin/zsh
+
+rm -r docs 2>err
+rm -f err

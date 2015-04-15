@@ -1,0 +1,3 @@
+#!/bin/zsh
+
+java -cp "libs/*:out/production/Homework 2" info.kgeorgiy.java.advanced.arrayset.Tester NavigableSet ru.ifmo.ctddev.kacman.arrayset.ArraySet $1
