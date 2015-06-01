@@ -1,0 +1,3 @@
+#!/bin/zsh
+
+java ru.ifmo.ctddev.kacman.copy.UIFileCopy /Users/Alex/Desktop/Test/Films /Users/Alex/Desktop/Test/out/OutFilms

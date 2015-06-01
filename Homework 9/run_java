@@ -1,0 +1,12 @@
+#!/bin/zsh
+
+arg=$1
+
+if [[ $arg == "client" ]]
+then
+    arg="Client"
+else
+    arg="Server"
+fi
+
+java -cp "libs/*:out/production/Homework 9" info.kgeorgiy.java.advanced.hello.Tester $1 ru.ifmo.ctddev.kacman.helloudp.HelloUDP$arg $2

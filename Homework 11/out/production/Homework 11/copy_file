@@ -1,0 +1,3 @@
+#!/bin/zsh
+
+java ru.ifmo.ctddev.kacman.copy.UIFileCopy /Users/Alex/Desktop/Test/Обитель\ проклятых.m4v /Users/Alex/Desktop/Test/out/film.m4v
