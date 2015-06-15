@@ -1,0 +1,19 @@
+Beginning:
+1) package
+2) import/static import
+3) class/interface
+4) модуль доступа (???)
+
+import - позволяет получить доступ к набору классов и интерфейсов
+static import - в конце указывается имя метода или поля, куда импортируем
+
+import static java.lang.math.*;
+
+
+import a.b.c + java.lang + по умолчанию
+
+
+JAVA 8:
+1) В интерфейсах теперь могут быть статические методы
+2) Есть методы по умолчанию
+3) 
